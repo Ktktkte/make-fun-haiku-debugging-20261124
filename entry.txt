@@ -1,0 +1,3 @@
+Breakpoint set at dawn
+the watch window shows nothing
+the bug watched me sleep
